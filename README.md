@@ -14,5 +14,5 @@
 ## Technologies Used
 + Frontend: Nuxt3, Tailwind CSS
 + Backend: Node.js, Django
-<!-- + Database: MongoDB -->
-<!-- + Deployment: Render -->
++ Database: N/A
++ Deployment: Render
